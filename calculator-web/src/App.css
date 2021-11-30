@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+select {
+  margin-left: .5rem;
+  margin-right: .5rem;
+}
+
+input[type=text] {
+  size:50;
+  padding:5px; border:2px solid #ccc; 
+  -webkit-border-radius: 5px;
+      border-radius: 5px;
+  }
+
+input[type=text]:focus {border-color:#333; }
+  
